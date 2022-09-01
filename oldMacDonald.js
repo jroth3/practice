@@ -80,6 +80,10 @@ const crow = {
 }
 
 // Joe
+const horse = {
+  animalName: "horse",
+  animalSound: "Ay!"
+}
 
 // Aidan
 const tiger ={
@@ -109,6 +113,8 @@ const fox = {
     animalName: "Fox",
     animalSound: "ring ding ding ding"
 }
+
+
 // Daisuke
 
 
